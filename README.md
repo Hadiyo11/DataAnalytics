@@ -38,7 +38,12 @@ Some of the resources I'm using:
 ---
 
 ## 🗂️ Project Structure
-
+Checklist 
+- SA Unemployment Analysis vs Education Level
+- Crime Statistics dashboard
+- Matric Results Analysis
+- SA Food Price Inflation
+- Water & Sanitation Access in Rural Areas
 
 ---
 
