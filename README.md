@@ -39,3 +39,32 @@ Some of the resources I'm using:
 
 ## 🗂️ Project Structure
 
+
+---
+
+## 📈 Progress Tracker
+
+| Date Started | Topic                            | Status     |
+|--------------|----------------------------------|------------|
+| 2025-05-06   | Basics of Data Analytics         | ✅ Started |
+| TBD          | Excel for Data Analytics         | ⏳ Pending |
+| TBD          | SQL for Data Analysis            | ⏳ Pending |
+| TBD          | Python for Data Analysis         | ⏳ Pending |
+| TBD          | Visualization & Dashboards       | ⏳ Pending |
+
+---
+
+## 💡 Notes
+
+- This is a work-in-progress repo, so feel free to check back for updates.
+- Feedback or suggestions are welcome!
+
+---
+
+## 📬 Contact
+
+If you'd like to connect or collaborate, reach out via [GitHub](https://github.com/your-username) or LinkedIn.
+
+---
+
+
