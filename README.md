@@ -55,7 +55,7 @@ Checklist
 | Date Started | Topic                            | Status     |
 |--------------|----------------------------------|------------|
 | 2025-05-06   | Basics of Data Analytics         | ✅ Done   |
-| TBD          | Excel for Data Analytics         | ⏳ Pending |
+| 2025-95-26   | Excel for Data Analytics         | ✅ Started |
 | TBD          | SQL for Data Analysis            | ⏳ Pending |
 | TBD          | Python for Data Analysis         | ⏳ Pending |
 | TBD          | Visualization & Dashboards       | ⏳ Pending |
