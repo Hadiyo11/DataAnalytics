@@ -5,6 +5,9 @@ Welcome to my repository dedicated to learning **Data Analytics**! This is a per
 
 ---
 
+## Certifications
+ -Cisco Data Analytics Essentials
+
 ## 🎯 Goal
 
 To build a strong foundation in data analytics by:
@@ -51,7 +54,7 @@ Checklist
 
 | Date Started | Topic                            | Status     |
 |--------------|----------------------------------|------------|
-| 2025-05-06   | Basics of Data Analytics         | ✅ Started |
+| 2025-05-06   | Basics of Data Analytics         | ✅ Done   |
 | TBD          | Excel for Data Analytics         | ⏳ Pending |
 | TBD          | SQL for Data Analysis            | ⏳ Pending |
 | TBD          | Python for Data Analysis         | ⏳ Pending |
